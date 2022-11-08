@@ -12,3 +12,7 @@ initialDaysLeft = 365;
 
 npm install
 npm start
+
+### Set Interest Value in lending/borrowing
+
+After entering a non-zero value in amount, the allowed interest values will be shown
